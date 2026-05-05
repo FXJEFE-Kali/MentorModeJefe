@@ -1,0 +1,100 @@
+path,size_mb,head_hex,ext,loaded,lib,kind,n_features,error
+11_feature_rf.pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+11_feature_rf_XRP_2025_FINAL.pkl,1.33,80 04 95 98 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,11,
+ADAUSD_D1_binary_lgb.pkl,0.03,80 04 95 F6 88 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+ADAUSD_H1_binary_lgb.pkl,0.04,80 04 95 CF A6 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+ADAUSD_H4_binary_lgb.pkl,0.26,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+AVAXUSD_D1_binary_lgb.pkl,0.05,80 04 95 5C D6 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+AVAXUSD_H1_binary_lgb.pkl,0.05,80 04 95 44 DB 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+AVAXUSD_H4_binary_lgb.pkl,0.18,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+BTCUSD_D1_binary_lgb (2).pkl,0.06,80 04 95 3E F2 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+BTCUSD_D1_binary_lgb.pkl,0.02,80 04 95 CD 4E 00 00 00,.pkl,True,joblib,LGBMClassifier,28,
+BTCUSD_H1_binary_lgb.pkl,0.2,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+BTCUSD_H4_binary_lgb.pkl,0.03,80 04 95 2A 6B 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+crypto_meta_ranker_D1.pkl,0.09,80 04 95 A2 03 00 00 00,.pkl,True,joblib,dict,n/a,
+crypto_meta_ranker_H4.pkl,0.09,80 04 95 A2 03 00 00 00,.pkl,True,joblib,dict,n/a,
+crypto_model (2).pkl,2400.71,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+crypto_model.pkl,2400.71,80 04 95 61 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,28,
+crypto_model_2025.pkl,93.24,80 04 95 16 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+DOGEUSD_D1_binary_lgb.pkl,0.02,80 04 95 3E 4A 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+DOGEUSD_H1_binary_lgb.pkl,0.13,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+DOGEUSD_H4_binary_lgb.pkl,0.02,80 04 95 E8 5C 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+DOTUSD_D1_binary_lgb.pkl,0.13,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+DOTUSD_H1_binary_lgb.pkl,0.25,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+DOTUSD_H4_binary_lgb.pkl,0.02,80 04 95 12 47 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+eNOnsemble_model.pkl,0.05,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+ensamble_model (2).pkl,2.42,E2 82 AC 04 E2 80 A2 5E,.pkl,False,,,,KeyError: 226
+ensamble_model (3).pkl,2.42,E2 82 AC 04 E2 80 A2 5E,.pkl,False,,,,KeyError: 226
+ensamble_model.pkl,1.0,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+ensemble_model (2).pkl,0.33,78 5E EC 5D 07 54 D4 CA,.pkl,False,,,,AttributeError: Can't get attribute 'SimpleEnsemble' on <module '__main__' from 'C:\\Users\\localonly\\Documents\\FXJEFE_Project\\probe_models.py'>
+ensemble_model (3).pkl,0.33,78 5E EC 5D 07 54 D4 CA,.pkl,False,,,,AttributeError: Can't get attribute 'SimpleEnsemble' on <module '__main__' from 'C:\\Users\\localonly\\Documents\\FXJEFE_Project\\probe_models.py'>
+ensemble_model (4).pkl,0.33,78 5E EC 5D 07 54 D4 CA,.pkl,False,,,,AttributeError: Can't get attribute 'SimpleEnsemble' on <module '__main__' from 'C:\\Users\\localonly\\Documents\\FXJEFE_Project\\probe_models.py'>
+ensemble_model (5).pkl,1858.89,80 04 95 E3 03 00 00 00,.pkl,True,joblib,VotingClassifier,45,
+ensemble_model (6).pkl,1858.89,80 04 95 E3 03 00 00 00,.pkl,True,joblib,VotingClassifier,45,
+ensemble_model.pkl,0.33,78 5E EC 5D 07 54 D4 CA,.pkl,False,,,,AttributeError: Can't get attribute 'SimpleEnsemble' on <module '__main__' from 'C:\\Users\\localonly\\Documents\\FXJEFE_Project\\probe_models.py'>
+ensemble_modelnew.pkl,0.05,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+ensemble_model_new (2).pkl,1.0,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+ensemble_model_new.pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+ETHUSD_D1_binary_lgb (2).pkl,0.04,80 04 95 9B 9F 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+ETHUSD_D1_binary_lgb.pkl,0.15,80 04 95 E5 01 00 00 00,.pkl,True,joblib,LGBMClassifier,28,
+ETHUSD_H1_binary_lgb.pkl,0.05,80 04 95 3F BB 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+ETHUSD_H4_binary_lgb.pkl,0.07,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+ETHUSD_M15_binary_lgb.pkl,0.08,80 04 95 E5 01 00 00 00,.pkl,True,joblib,LGBMClassifier,28,
+EURUSD_D1_binary_lgb (2).pkl,0.02,80 04 95 FF 4D 00 00 00,.pkl,True,joblib,LGBMClassifier,138,
+EURUSD_D1_binary_lgb (3).pkl,0.02,80 04 95 FF 4D 00 00 00,.pkl,True,joblib,LGBMClassifier,138,
+EURUSD_D1_binary_lgb.pkl,0.02,80 04 95 73 44 00 00 00,.pkl,True,joblib,LGBMClassifier,43,
+EURUSD_H4_binary_lgb.pkl,0.02,80 04 95 0A 48 00 00 00,.pkl,True,joblib,LGBMClassifier,43,
+EURUSD_M15_binary_lgb.pkl,0.14,80 04 95 E5 01 00 00 00,.pkl,True,joblib,LGBMClassifier,43,
+forex_model_2025.pkl,1.93,80 04 95 5E 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,9,
+lightgbm_model (2).onnx,0.08,08 04 12 0B 4F 6E 6E 78,.onnx,True,onnx,Session,45,
+lightgbm_model (2).pkl,0.15,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+lightgbm_model.onnx,0.08,08 04 12 0B 4F 6E 6E 78,.onnx,True,onnx,Session,45,
+lightgbm_model.pkl,0.15,80 04 95 E9 01 00 00 00,.pkl,True,joblib,LGBMClassifier,45,
+LINKUSD_D1_binary_lgb.pkl,0.07,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+LINKUSD_H1_binary_lgb.pkl,0.09,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+LINKUSD_H4_binary_lgb.pkl,0.18,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+MATICUSD_H1_binary_lgb.pkl,0.22,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+MATICUSD_H4_binary_lgb.pkl,0.35,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+my_model (1).pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+my_model (10).pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+my_model (11).pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+my_model (2).pkl,1.0,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+my_model (3).pkl,1.0,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+my_model (4).pkl,1858.02,80 04 95 C5 01 00 00 00,.pkl,True,joblib,Pipeline,45,
+my_model (5).pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+my_model (6).pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+my_model (7).pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+my_model (8).pkl,5.35,80 04 95 61 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,28,
+my_model (9).pkl,2.42,E2 82 AC 04 E2 80 A2 5E,.pkl,False,,,,KeyError: 226
+my_model - Copy (2).pkl,1.93,80 04 95 5E 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,9,
+my_model - Copy.pkl,1.93,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+my_model.onnx,1164.49,00 00 00 00 00 00 00 00,.onnx,False,,,,InvalidProtobuf: [ONNXRuntimeError] : 7 : INVALID_PROTOBUF : Load model from C:\Users\localonly\Documents\FXJEFE_Project\my_model.onnx failed:Protobuf parsing failed.
+NAS100_H4_binary_lgb.pkl,0.01,80 04 95 35 32 00 00 00,.pkl,True,joblib,LGBMClassifier,43,
+NAS100_M15_binary_lgb.pkl,0.01,80 04 95 FE 25 00 00 00,.pkl,True,joblib,LGBMClassifier,43,
+NOmy_model.pkl,0.05,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+PEPEUSD_D1_binary_lgb.pkl,0.07,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+PEPEUSD_H1_binary_lgb.pkl,0.09,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+PEPEUSD_H4_binary_lgb.pkl,0.12,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+SOLUSD_D1_binary_lgb.pkl,0.03,80 04 95 85 67 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+SOLUSD_H1_binary_lgb.pkl,0.03,80 04 95 F9 65 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+SOLUSD_H4_binary_lgb.pkl,0.45,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+SUIUSD_D1_binary_lgb.pkl,0.01,80 04 95 64 35 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+SUIUSD_H1_binary_lgb.pkl,0.01,80 04 95 DC 39 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+SUIUSD_H4_binary_lgb.pkl,0.07,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+xgboost_model.json,0.94,7B 22 6C 65 61 72 6E 65,.json,True,xgb,Booster,45,
+xgboost_model.onnx,0.3,08 08 12 0B 4F 6E 6E 78,.onnx,True,onnx,Session,45,
+XRPUSD_D1_binary_lgb (2).pkl,0.01,80 04 95 CB 2F 00 00 00,.pkl,True,joblib,LGBMClassifier,91,
+XRPUSD_D1_binary_lgb.pkl,0.02,80 04 95 E7 48 00 00 00,.pkl,True,joblib,LGBMClassifier,28,
+XRPUSD_H1_binary_lgb.pkl,0.19,80 04 95 E2 01 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+XRPUSD_H4_binary_lgb.pkl,0.03,80 04 95 3C 73 00 00 00,.pkl,True,joblib,LGBMClassifier,90,
+models\11_feature_rf.pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+models\11_feature_rf_XRP_2025_FINAL.pkl,1.33,80 04 95 98 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,11,
+models\crypto_model.pkl,2400.71,80 04 95 61 03 00 00 00,.pkl,True,joblib,RandomForestClassifier,28,
+models\lightgbm_model.onnx,0.08,08 04 12 0B 4F 6E 6E 78,.onnx,True,onnx,Session,45,
+models\lstm_model.h5,0.24,50 4B 03 04 00 00 08 08,.h5,False,,,,tensorflow not installed: No module named 'tensorflow'
+models\my_model.onnx,1164.49,00 00 00 00 00 00 00 00,.onnx,False,,,,InvalidProtobuf: [ONNXRuntimeError] : 7 : INVALID_PROTOBUF : Load model from C:\Users\localonly\Documents\FXJEFE_Project\models\my_model.onnx failed:Protobuf parsing failed.
+models\my_model.pkl,1.0,80 04 95 00 07 00 00 00,.pkl,True,joblib,VotingClassifier,9,
+models\my_modelbig.pkl,1858.02,80 04 95 C5 01 00 00 00,.pkl,True,joblib,Pipeline,45,
+models\my_modelOG.pkl,2.42,00 00 00 00 00 00 00 00,.pkl,False,,,,KeyError: 0
+models\stacking_model.pkl,1.27,80 04 95 FB 07 00 00 00,.pkl,True,joblib,StackingClassifier,28,
+models\xgboost_model.json,1.41,7B 22 6C 65 61 72 6E 65,.json,True,xgb,Booster,6,
